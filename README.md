@@ -15,15 +15,19 @@ The work spans supervised lens classification, physics-informed modeling, and di
 ### Result Visuals
 
 ResNet50:
+
 ![ResNet50 Results](common-task-i/resnet50-results.png)
 
 EfficientNet:
+
 ![EfficientNet Results](common-task-i/efficientnet-results.png)
 
 DenseNet:
+
 ![DenseNet Results](common-task-i/densenet-results.png)
 
 MobileNet:
+
 ![MobileNet Results](common-task-i/mobilenet-results.png)
 
 ## Task VII (Physics-Informed Neural Network Classification)
