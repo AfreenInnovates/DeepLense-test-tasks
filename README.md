@@ -1,4 +1,4 @@
-# DeepLense Test Tasks (Unified)
+# DeepLense Test Tasks
 
 This repository contains my implementations and documentation for the ML4Sci GSoC 2026 application test tasks, focusing on DeepLense, for the project [Physics-Informed Diffusion Models for Gravitational Lensing Simulation](https://ml4sci.org/gsoc/2026/proposal_DEEPLENSE8.html)
 
