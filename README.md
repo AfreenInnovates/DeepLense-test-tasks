@@ -1,8 +1,3 @@
-# DeepLense Test Tasks
-
-This repository contains my implementations and documentation for the ML4Sci GSoC 2026 application test tasks, focusing on DeepLense, for the project [Physics-Informed Diffusion Models for Gravitational Lensing Simulation](https://ml4sci.org/gsoc/2026/proposal_DEEPLENSE8.html) and [Physics Guided Machine Learning on Real Lensing Images
-](https://ml4sci.org/gsoc/2026/proposal_DEEPLENSE5.html)
-
 The work spans supervised lens classification, physics-informed modeling, and diffusion-based generation.
 
 Common task I, specific task VII for 'Physics Guided Machine Learning on Real Lensing Images'.
